@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 - 🌱 Atualmente curso T.I for Internet.
 - 😄 Pronouns: Ela/dela
