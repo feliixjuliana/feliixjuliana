@@ -5,10 +5,10 @@
 
 <div>
 <a href="https://github.com/feliixjuliana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feliixjuliana&repo=github-readme-stats" />
+  <img align="center" src="https://github.com/feliixjuliana/Projeto-Git.git" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feliixjuliana&repo=convoychat" />
+<a href="https://github.com/feliixjuliana">
+  <img align="center" src="https://github.com/feliixjuliana/Projeto-Git.git" />
 </a>
 </div>
 
