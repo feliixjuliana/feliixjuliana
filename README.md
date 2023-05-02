@@ -4,7 +4,7 @@
 - 😄 Pronouns: Ela/dela
 
 <div>
-<a href="https://github.com/feliixjuliana/Projeto-Git.gita">
+<a href="https://github.com/feliixjuliana/Projeto-Git.git">
   <img align="center" src="https://github.com/feliixjuliana/Projeto-Git.git" />
 </a>
 <a href="https://github.com/feliixjuliana">
