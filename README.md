@@ -3,7 +3,8 @@
 - 🌱 T.I para Internet.
 - 😄 Pronouns: Ela/dela
 
-![feliixjuliana GitHub stats](https://github-readme-stats.vercel.app/api?username=feliixjuliana_icons=true&theme=dracula)
+
+![feliixjuliana GitHub stats](https://github-readme-stats.vercel.app/api?username=feliixjuliana&show_icons=true&theme=radical)
 
 
 
