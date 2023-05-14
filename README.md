@@ -1,5 +1,3 @@
-### Olá! 👋
-
 - 🌱 T.I para Internet.
 - 😄 Pronouns: Ela/dela
 
