@@ -1,5 +1,5 @@
 - 🌱 T.I para Internet.
-- 😄 Pronouns: Ela/dela
+- 😄 IFPE.
 
 
 ![feliixjuliana GitHub stats](https://github-readme-stats.vercel.app/api?username=feliixjuliana&show_icons=true&theme=radical)
