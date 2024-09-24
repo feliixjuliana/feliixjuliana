@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a18594&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-Vindo(a)!+:%29;Meu+nome+é+Juliana+Gabriela)](https://git.io/typing-svg)
 
 <p> Comecei na área da tecnologia em 2023, por meio do curso técnico "Informática para Internet". </br>
- Em Setembro de 2024, finalizei o curso, voltado para desenvolvimento web, pelo Instituto Federal de Pernambuco. </br>
+ Em Setembro de 2024 finalizei o curso, voltado para desenvolvimento web, pelo Instituto Federal de Pernambuco. </br>
 Onde tive maior contato com: </p>
 
 
