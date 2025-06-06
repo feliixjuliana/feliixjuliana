@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a18594&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-Vindo(a)!+:%29;Meu+nome+é+Juliana+Gabriela)](https://git.io/typing-svg)
 
 <p> Comecei na área da tecnologia em 2023, por meio do curso técnico "Informática para Internet". </br>
- Em Setembro de 2024 finalizei o curso, voltado para desenvolvimento web, pelo Instituto Federal de Pernambuco. </br>
+ Atualmente sou uma graduando do curso superior Análise e Desenvolvimento de Sistemas, </br>
+ 2° Período, no Instituto Federal de Pernambuco. </br>
 Onde tive maior contato com: </p>
 
 
@@ -27,8 +28,7 @@ Onde tive maior contato com: </p>
    
 </div>
 
-<p> Atualmente sou uma graduando do curso superior Análise e Desenvolvimento de Sistemas, </br>
-  1° Período, no Instituto Federal de Pernambuco.</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 <div align='center'>
 <p> Você pode entrar em contato por meio deles: </p>
