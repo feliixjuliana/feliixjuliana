@@ -30,7 +30,7 @@ Onde tive maior contato com: </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-<div align='center'>
+<div align='left'>
 <p> Você pode entrar em contato por meio deles: </p>
 
   <a href = "felixjuliana890@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
