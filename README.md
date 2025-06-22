@@ -37,3 +37,12 @@ Onde tive maior contato com: </p>
   <a href="https://www.linkedin.com/in/feliixjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## Status do Git
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feliixjuliana&bg_color=a18594&border_color=30A3DC&title_color=000000&text_color=FFF)
+
+
+## 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffeliixjuliana">
+
+ <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ffeliixjuliana&label=Visualiza%C3%A7%C3%B5es&labelColor=%2337d67a&countColor=%23f47373" /></a>
