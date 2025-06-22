@@ -39,8 +39,11 @@ Onde tive maior contato com: </p>
 
 ## Status do Git
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feliixjuliana&bg_color=a18594&border_color=30A3DC&title_color=000000&text_color=FFF)
+<div align='center'>
+ 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feliixjuliana&bg_color=a18594&border_color=a18594&title_color=FFF&text_color=FFF);
 
+ </div>
 
 ## 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ffeliixjuliana">
