@@ -41,7 +41,7 @@ Onde tive maior contato com: </p>
 
 <div align='center'>
  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feliixjuliana&bg_color=a18594&border_color=a18594&title_color=FFF&text_color=FFF)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliixjuliana&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=1C1C1C" >
 
  </div>
 
