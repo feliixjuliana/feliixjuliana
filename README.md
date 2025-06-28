@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a18594&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a18594&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-Vindo(a)!+:%29;Meu+nome+é+Juliana+Gabriela)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a18594&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-Vindo(a)!+:%29;Sou+a+Juliana+Gabriela)](https://git.io/typing-svg)
 
 <p> Comecei na área da tecnologia em 2023, por meio do curso técnico "Informática para Internet". </br>
  Atualmente sou uma graduando do curso superior Análise e Desenvolvimento de Sistemas, </br>
@@ -21,6 +21,7 @@ Onde tive maior contato com: </p>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 </br>
+![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
